@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/css-selector-tutorial/static/css/main.0f3ea47c.chunk.css",
+    "main.js": "/css-selector-tutorial/static/js/main.58e757cf.chunk.js",
+    "main.js.map": "/css-selector-tutorial/static/js/main.58e757cf.chunk.js.map",
+    "runtime-main.js": "/css-selector-tutorial/static/js/runtime-main.5f04adbb.js",
+    "runtime-main.js.map": "/css-selector-tutorial/static/js/runtime-main.5f04adbb.js.map",
+    "static/js/2.ec31de02.chunk.js": "/css-selector-tutorial/static/js/2.ec31de02.chunk.js",
+    "static/js/2.ec31de02.chunk.js.map": "/css-selector-tutorial/static/js/2.ec31de02.chunk.js.map",
+    "index.html": "/css-selector-tutorial/index.html",
+    "precache-manifest.c2ebd7373d60354c17e986554f3a4e8b.js": "/css-selector-tutorial/precache-manifest.c2ebd7373d60354c17e986554f3a4e8b.js",
+    "service-worker.js": "/css-selector-tutorial/service-worker.js",
+    "static/css/main.0f3ea47c.chunk.css.map": "/css-selector-tutorial/static/css/main.0f3ea47c.chunk.css.map",
+    "static/js/2.ec31de02.chunk.js.LICENSE.txt": "/css-selector-tutorial/static/js/2.ec31de02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f04adbb.js",
+    "static/js/2.ec31de02.chunk.js",
+    "static/css/main.0f3ea47c.chunk.css",
+    "static/js/main.58e757cf.chunk.js"
+  ]
+}
